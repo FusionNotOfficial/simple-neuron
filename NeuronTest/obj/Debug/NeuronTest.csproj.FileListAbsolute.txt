@@ -1,0 +1,7 @@
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\bin\Debug\NeuronTest.exe.config
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\bin\Debug\NeuronTest.exe
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\bin\Debug\NeuronTest.pdb
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\obj\Debug\NeuronTest.csproj.AssemblyReference.cache
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\obj\Debug\NeuronTest.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\obj\Debug\NeuronTest.exe
+F:\Visual Studio\TestProjects\NeuronTest\NeuronTest\obj\Debug\NeuronTest.pdb
